@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-10T10:12:52 IST" name="Default suite" finished-at="2023-06-10T10:13:01 IST" duration-ms="8388">
+    <groups>
+    </groups>
+    <test started-at="2023-06-10T10:12:52 IST" name="Default test" finished-at="2023-06-10T10:13:01 IST" duration-ms="8388">
+      <class name="cdpPractice.Edgeblockurls">
+        <test-method signature="blockIImages()[pri:0, instance:cdpPractice.Edgeblockurls@5403f35f]" started-at="2023-06-10T10:12:52 IST" name="blockIImages" finished-at="2023-06-10T10:13:01 IST" duration-ms="8321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockIImages -->
+      </class> <!-- cdpPractice.Edgeblockurls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
